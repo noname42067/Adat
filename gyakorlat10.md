@@ -54,7 +54,9 @@ a. Képezzük a halmazok metszetét!
 b. A halmazokat létrehozó, és a metszetüket lekérdező utasításokat (3 utasítás) adja meg a válaszhoz!
 
 ```js
-
+sadd n1 10 20 30
+sadd n2 15 30 
+SINTER n1 n2
 ```
 
 
